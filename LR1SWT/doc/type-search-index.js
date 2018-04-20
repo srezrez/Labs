@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"by.bsuir.convertor.action","l":"Convertor"}]

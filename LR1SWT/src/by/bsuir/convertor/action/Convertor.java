@@ -10,8 +10,8 @@ public class Convertor {
 	
 	/**
 	 * Method converts decimal numbers into binary.
-	 * @param num
-	 * @return String
+	 * @param num - input number
+	 * @return String - converted number
 	 */
 	public String convert(int num) {
 		init();
